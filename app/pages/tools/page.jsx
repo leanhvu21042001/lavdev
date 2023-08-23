@@ -15,7 +15,7 @@ const Tools = () => {
             </h1>
           </div>
 
-          <ul className="w-96">
+          <ul className="w-auto flex flex-wrap gap-10">
             <li>
               <Link
                 className="w-full p-4 bg-indigo-500 shadow-lg shadow-indigo-500/50 text-white rounded-md"
