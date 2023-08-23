@@ -24,6 +24,15 @@ const Tools = () => {
                 Color Picker
               </Link>
             </li>
+
+            <li>
+              <Link
+                className="w-full p-4 bg-indigo-500 shadow-lg shadow-indigo-500/50 text-white rounded-md"
+                href="tools/shorter-link"
+              >
+                Shorter Link
+              </Link>
+            </li>
             {/* <li className="w-full py-4">And a fifth one</li> */}
           </ul>
         </div>
